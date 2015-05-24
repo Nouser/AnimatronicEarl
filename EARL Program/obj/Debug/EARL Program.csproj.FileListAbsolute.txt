@@ -1,0 +1,23 @@
+c:\users\youngm1\documents\visual studio 2012\Projects\EARL Program\EARL Program\bin\Debug\EARL Program.exe.config
+c:\users\youngm1\documents\visual studio 2012\Projects\EARL Program\EARL Program\bin\Debug\EARL Program.exe
+c:\users\youngm1\documents\visual studio 2012\Projects\EARL Program\EARL Program\bin\Debug\EARL Program.pdb
+c:\users\youngm1\documents\visual studio 2012\Projects\EARL Program\EARL Program\obj\Debug\EARL Program.csprojResolveAssemblyReference.cache
+c:\users\youngm1\documents\visual studio 2012\Projects\EARL Program\EARL Program\obj\Debug\EARL_Program.frmMain.resources
+c:\users\youngm1\documents\visual studio 2012\Projects\EARL Program\EARL Program\obj\Debug\EARL_Program.Properties.Resources.resources
+c:\users\youngm1\documents\visual studio 2012\Projects\EARL Program\EARL Program\obj\Debug\EARL Program.csproj.GenerateResource.Cache
+c:\users\youngm1\documents\visual studio 2012\Projects\EARL Program\EARL Program\obj\Debug\EARL Program.exe
+c:\users\youngm1\documents\visual studio 2012\Projects\EARL Program\EARL Program\obj\Debug\EARL Program.pdb
+C:\Users\youngm1\Documents\Visual Studio 2012\Projects\EARL Program\EARL Program\obj\Debug\EARL_Program.frmRun.resources
+C:\Users\youngm1\Documents\Visual Studio 2012\Projects\EARL Program\EARL Program\obj\Debug\EARL_Program.frmSplash.resources
+C:\Users\Matt\Desktop\EARL Program\EARL Program\bin\Debug\EARL Program.exe.config
+C:\Users\Matt\Desktop\EARL Program\EARL Program\obj\Debug\EARL Program.exe
+C:\Users\Matt\Desktop\EARL Program\EARL Program\obj\Debug\EARL Program.pdb
+C:\Users\Matt\Desktop\EARL Program\EARL Program\bin\Debug\EARL Program.exe
+C:\Users\Matt\Desktop\EARL Program\EARL Program\bin\Debug\EARL Program.pdb
+C:\Users\Matt\Desktop\EARL Program\EARL Program\bin\Debug\NAudio.dll
+C:\Users\Matt\Desktop\EARL Program\EARL Program\obj\Debug\EARL Program.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\EARL Program\EARL Program\obj\Debug\EARL_Program.frmMain.resources
+C:\Users\Matt\Desktop\EARL Program\EARL Program\obj\Debug\EARL_Program.frmRun.resources
+C:\Users\Matt\Desktop\EARL Program\EARL Program\obj\Debug\EARL_Program.frmSplash.resources
+C:\Users\Matt\Desktop\EARL Program\EARL Program\obj\Debug\EARL_Program.Properties.Resources.resources
+C:\Users\Matt\Desktop\EARL Program\EARL Program\obj\Debug\EARL Program.csproj.GenerateResource.Cache
